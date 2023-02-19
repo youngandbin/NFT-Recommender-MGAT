@@ -4,10 +4,10 @@
 - will be updated
 
 ### dataset
-~/xxx/yyy/bayc/
-├── bayc.inter
-├── bayc.item
-└── bayc.user
+  ~/xxx/yyy/bayc/
+  ├── bayc.inter
+  ├── bayc.item
+  └── bayc.user
 - **collections (MAIN)**
   - For each NFT collections, there are interactions and features files included.
   - For example, train.npy is user-item interactions and image_feat.npy is preprocessed image features of items.
