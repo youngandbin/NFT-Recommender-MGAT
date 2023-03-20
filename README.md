@@ -34,8 +34,5 @@
 ### Model.py (MAIN)
 - A multi-modal graph-based, multi-objective model for recommending NFTs. (named "MMMO")
 
-### Model_2.py
-- The same model as above, with propagating 2-hop information in graphs. (named "MMMO_2")
-
 ### main.py (MAIN)
 - The code to run experiments using the model.
